@@ -1,0 +1,12 @@
+
+workflows:
+  android-build:
+    name: Android Build
+    max_build_duration: 30
+    environment:
+      vars:
+        JAVA_HOME: /usr/lib/jvm/java-11-openjdk/
+    scripts:
+      - ./gradlew assembleRelease
+    artifacts:
+      - app/build/outputs/**/*.apk
