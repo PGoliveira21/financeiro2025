@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Controle Financeiro</string>
+    <string name="home">Início</string>
+    <string name="charts">Gráficos</string>
+    <string name="budget">Orçamento</string>
+    <string name="export">Exportar</string>
+    <string name="add_transaction">Adicionar Transação</string>
+    <string name="total_balance">Saldo Total</string>
+    <string name="recent_transactions">Transações Recentes</string>
+    <string name="no_transactions">Nenhuma transação</string>
+    <string name="add_first_transaction">Adicione sua primeira transação</string>
+    <string name="expense">Gasto</string>
+    <string name="income">Receita</string>
+    <string name="amount">Valor</string>
+    <string name="description">Descrição</string>
+    <string name="category">Categoria</string>
+    <string name="date">Data</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Excluir</string>
+    <string name="edit">Editar</string>
+    <string name="export_to_excel">Exportar para Excel</string>
+    <string name="download_csv">Baixar CSV</string>
+    <string name="export_description">Baixe seus dados financeiros em formato CSV para análise externa.</string>
+    <string name="data_summary">Resumo dos Dados</string>
+    <string name="total_transactions">Total de Transações</string>
+    <string name="defined_budgets">Orçamentos Definidos</string>
+    <string name="current_balance">Saldo Atual</string>
+    <string name="expenses_by_category">Gastos por Categoria</string>
+    <string name="monthly_summary">Resumo Mensal</string>
+    <string name="revenues">Receitas</string>
+    <string name="expenses">Gastos</string>
+    <string name="no_budgets">Nenhum orçamento definido</string>
+    <string name="define_budgets">Defina orçamentos para suas categorias</string>
+    <string name="add_budget">Adicionar Orçamento</string>
+    <string name="budget_amount">Valor do Orçamento</string>
+    <string name="spent_of">gasto de</string>
+    
+    <!-- Categorias -->
+    <string name="category_food">Alimentação</string>
+    <string name="category_transport">Transporte</string>
+    <string name="category_housing">Moradia</string>
+    <string name="category_health">Saúde</string>
+    <string name="category_education">Educação</string>
+    <string name="category_entertainment">Lazer</string>
+    <string name="category_clothing">Vestuário</string>
+    <string name="category_others">Outros</string>
+    <string name="category_salary">Salário</string>
+    <string name="category_freelance">Freelance</string>
+    <string name="category_investments">Investimentos</string>
+</resources>
+
